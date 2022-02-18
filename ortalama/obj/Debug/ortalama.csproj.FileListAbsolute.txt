@@ -1,0 +1,9 @@
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\bin\Debug\ortalama.exe.config
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\bin\Debug\ortalama.exe
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\bin\Debug\ortalama.pdb
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\obj\Debug\ortalama.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\obj\Debug\ortalama.Form1.resources
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\obj\Debug\ortalama.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\obj\Debug\ortalama.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\obj\Debug\ortalama.exe
+C:\Users\Öğrenci\Desktop\ortalama\ortalama\obj\Debug\ortalama.pdb
